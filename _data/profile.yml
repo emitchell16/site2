@@ -10,7 +10,6 @@ positions:
 
 
 email: "estaton@emory.edu"
-cv_link: /files/ecm_cv.pdf
 gscholar: b1yd0AgAAAAJ  
 bluesky: lizstat.bsky.social  
 linkedin: liz-mitchell-68518b137
@@ -43,6 +42,9 @@ education:
   logo: /assets/images/badges/swatlogo.png
   position: B.A. in Economics and Philosophy
   date: Aug. 2015 - May. 2019
+
+
+cv_link: /files/ecm_cv.pdf
 
 # experience:
 # - name: Peking University
