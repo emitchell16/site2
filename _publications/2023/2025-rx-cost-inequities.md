@@ -4,6 +4,9 @@ date:           2025-03-03
 selected:       true
 pub:            "Journal of Racial and Ethnic Health Disparities"
 pub_date:       "2025"
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-
 abstract: >-
   We used nationally representative data to evaluate how differences in socioeconomic resources, access to care, health care need, and the use of cost-saving strategies contributed to racial and ethnic inequalities in prescription cost burden among older Medicare beneficiaries.
 #cover:          /assets/images/covers/cover1.jpg
