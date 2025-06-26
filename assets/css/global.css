@@ -117,8 +117,14 @@ body.dark-mode .card-body,
 body.dark-mode .page,
 body.dark-mode .archive__item,
 body.dark-mode .container,
+body.dark-mode .container-lg,
 body.dark-mode .row,
 body.dark-mode .col,
+body.dark-mode .content,
+body.dark-mode main,
+body.dark-mode .my-3,
+body.dark-mode .p-3,
+body.dark-mode .bg-white,
 body.dark-mode .text-profile-bio,
 body.dark-mode .text-profile-position,
 body.dark-mode .rounded-xl {
@@ -131,7 +137,12 @@ body.dark-mode .border-gray {
   border-color: #444 !important;
 }
 
-/* Optional: blockquotes or callouts */
+body.dark-mode .navbar a,
+body.dark-mode .nav-link,
+body.dark-mode .navbar-brand {
+  color: #e0e0e0 !important;
+}
+
 body.dark-mode blockquote,
 body.dark-mode .alert,
 body.dark-mode .highlight {
