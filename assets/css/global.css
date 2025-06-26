@@ -90,3 +90,25 @@ div.lazy {
     font-family: Courier, monospace;
 }
 
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+body.dark-mode a {
+    color: #80cfff;
+}
+
+body.dark-mode .navbar,
+body.dark-mode .card,
+body.dark-mode .text-profile-bio,
+body.dark-mode .text-profile-position {
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+}
+
+body.dark-mode .border-gray {
+    border-color: #444 !important;
+}
+
+
