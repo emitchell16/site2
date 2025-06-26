@@ -12,5 +12,28 @@
                 </div>
             </div>
         </div>
+
+        <!-- Dark mode toggle row -->
+        <div class="row">
+            <div class="col text-center">
+                <button id="dark-mode-toggle" class="btn btn-sm btn-outline-secondary">
+                    Dark Mode
+                </button>
+            </div>
+        </div>
     </div>
+
+    <!-- Dark mode JS -->
+    <script>
+        if (localStorage.getItem("dark-mode") === "enabled") {
+            document.body.classList.add("dark-mode");
+        }
+
+        document.getElementById("dark-mode-toggle").addEventListener("click", function () {
+            document.body.classList.toggle("dark-mode");
+            localStorage.setItem("dark-mode",
+                document.body.classList.contains("dark-mode") ? "enabled" : "disabled"
+            );
+        });
+    </script>
 </footer>
