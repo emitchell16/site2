@@ -143,6 +143,10 @@ body.dark-mode .navbar-brand {
   color: #e0e0e0 !important;
 }
 
+body.dark-mode .text-body {
+  color: #e0e0e0 !important;
+}
+
 body.dark-mode blockquote,
 body.dark-mode .alert,
 body.dark-mode .highlight {
