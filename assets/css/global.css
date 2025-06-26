@@ -101,10 +101,17 @@ body.dark-mode a {
 
 body.dark-mode .navbar,
 body.dark-mode .card,
+body.dark-mode .card-body,
+body.dark-mode .footer,
 body.dark-mode .text-profile-bio,
-body.dark-mode .text-profile-position {
-    background-color: #1e1e1e;
-    color: #e0e0e0;
+body.dark-mode .text-profile-position,
+body.dark-mode .page,
+body.dark-mode .archive__item,
+body.dark-mode .highlight,
+body.dark-mode .rounded-xl,
+body.dark-mode .border-gray {
+  background-color: #1e1e1e !important;
+  color: #e0e0e0 !important;
 }
 
 body.dark-mode .border-gray {
