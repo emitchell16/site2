@@ -8,7 +8,7 @@ pub_date:       "2025"
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-
 abstract: >-
-  We used nationally representative data to evaluate how differences in socioeconomic resources, access to care, health care need, and the use of cost-saving strategies contributed to racial and ethnic inequalities in prescription cost burden among older Medicare beneficiaries.
+  We used nationally representative Medicare survey data to evaluate how differences in socioeconomic resources, access to care, health care need, and the use of cost-saving strategies contributed to inequalities in prescription cost burden among older Medicare beneficiaries.
 #cover:          /assets/images/covers/cover1.jpg
 authors:
 - Elizabeth Staton
