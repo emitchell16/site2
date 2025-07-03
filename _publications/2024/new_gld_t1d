@@ -1,0 +1,23 @@
+---
+title:          "GLP-1 receptor agonist and SGLT2 inhibitor prescribing in people with type 1 diabetes"
+date:           2024-11-19
+selected:       true
+pub:            "Journal of the American Medical Association"
+pub_date:       "2024"
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-
+abstract: >-
+ Newer glucose-lowering medications, GLP-1RAs and SGLT2 inhibitors have significant cardiorenal benefits and advantages in weight management. They are not approved specifically for T1D, but some evidence suggests their use in this population. This study used an EHR database of more than half of US residents to explore prescribing trends of these medications for individuals with T1D.   
+cover:          /assets/images/covers/cover_gld_t1d.jpg
+authors:
+- Piaopiao Li
+- Zhiyan Li
+- Elizabeth Staton
+- Guillermo E Umpierrez
+- Georgia Davis
+- Hui Shao
+- Francisco J Pasquel
+links:
+  Paper: https://jamanetwork.com/journals/jama/fullarticle/2825312
+---
