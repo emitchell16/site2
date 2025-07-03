@@ -1,0 +1,18 @@
+---
+title:          "Associations of Medicare Advantage Enrollment Duration with Health Insurance Literacy and Access to and Affordability of Health Care"
+date:           2025-05-21
+selected:       true
+pub:            "Journal of General Internal Medicine"
+pub_date:       "2025"
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-
+abstract: >-
+ Health insurance selection is important for finances and health, but the complex range of available plans, especially in MA, makes this decision challenging. We examined whether beneficiaries with longer MA enrollment had higher health insurance literacy and better access to and affordability of care outcomes than those with shorter enrollment.
+cover:          /assets/images/covers/cover_majgim.jpg
+authors:
+- Elizabeth Staton
+- Sungchul Park
+links:
+  Paper: https://link.springer.com/article/10.1007/s11606-025-09628-x
+---
