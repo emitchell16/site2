@@ -18,13 +18,13 @@ linkedin: liz-mitchell-68518b137
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a researcher in the fourth year of my PhD in Health Services Research and Health Policy with a concentration in Health Economics at Emory University Rollins School of Public Health.
+    I am a researcher in the fourth year of my PhD in Health Services Research and Health Policy with a concentration in Health Economics at the Emory University Rollins School of Public Health.
   </p>
   <p>
-    I am interested in the accessibility of prescription drugs and other medical products, particularly in Medicare. My current research focus is access to high-cost glucose-lowering drugs.
+    I am interested in access to high-cost prescription drugs, particularly in Medicare. My current research focuses on access to cardioprotective glucose-lowering drugs for the treatment of diabetes.
   </p>
   <p>
-    I previously worked with the Duke University Margolis Center for Health Policy with a focus on coverage, payment, and competition issues around high-cost biologics and cell and gene therapies. I received my bachelor’s degree in Economics and Philosophy from Swarthmore College.
+    I previously worked with the Duke University Margolis Center for Health Policy on issues impacting access to biologics and cell and gene therapies. I received my bachelor’s degree in Economics and Philosophy from Swarthmore College.
   </p>
 
 portrait_url: /assets/images/photos/headshot-25.jpeg
@@ -36,15 +36,12 @@ education:
   logo: /assets/images/badges/emoryshield.jpg
   position: >- 
     Department of Health Policy and Management <br/>
-    Ph.D. in HSRHP, Health Economics Track
+    Ph.D. in Health Services Research and Health Policy
   date: Aug. 2022 - present
 - name: Swarthmore College
   logo: /assets/images/badges/swatlogo.png
   position: B.A. in Economics and Philosophy
   date: Aug. 2015 - May. 2019
-
-
-cv_link: /assets/ecm_cv.pdf
 
 # experience:
 # - name: Peking University
